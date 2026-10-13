@@ -1,0 +1,22 @@
+#Description:Excludes generated datasets, local environments, caches, and trained binaries.
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+#Generated data and model artifacts
+data/raw/*.csv
+data/processed/*.csv
+artifacts/*.joblib
+artifacts/*.json
+*.db
+
+#Keep curated report outputs in Git
+
+

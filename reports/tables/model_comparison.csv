@@ -1,0 +1,3 @@
+model,validation_pr_auc
+logistic_regression,0.8257969658096478
+xgboost,0.8030375499091079

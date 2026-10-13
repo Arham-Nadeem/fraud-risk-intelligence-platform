@@ -1,0 +1,2 @@
+roc_auc,pr_auc,precision,recall,review_rate,false_positive_rate,true_positives,false_positives,true_negatives,false_negatives,fraud_value_capture_rate,captured_fraud_value,total_fraud_value,model,threshold
+0.9790430480933037,0.8121299313290619,0.65814696485623,0.7923076923076923,0.026083333333333333,0.009114139693356048,206,107,11633,54,0.8760342653394814,29080.010000000002,33195.06,logistic_regression,0.89

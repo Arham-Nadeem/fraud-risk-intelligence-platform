@@ -1,0 +1,9 @@
+#Description:Free local dependencies for the fraud risk intelligence platform.
+pandas>=2.2
+numpy>=2.0
+scikit-learn>=1.5
+xgboost>=2.1
+matplotlib>=3.9
+joblib>=1.4
+streamlit>=1.39
+pytest>=8.0

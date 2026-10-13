@@ -1,0 +1,6 @@
+feature,psi,status
+minutes_since_prior_txn,0.3520971713106845,investigate
+amount,0.0021815483179475977,stable
+amount_to_baseline,0.00174356400055002,stable
+distance_from_home_km,0.0005181693797057917,stable
+hour,4.5443118492543636e-05,stable
